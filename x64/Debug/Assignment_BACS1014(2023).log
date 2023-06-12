@@ -1,0 +1,4 @@
+﻿  finalized.cpp
+C:\Users\Jason\Documents\单子\Assignment_BACS1014(2023)\finalized.cpp(154,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jason\Documents\单子\Assignment_BACS1014(2023)\finalized.cpp(201,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment_BACS1014(2023).vcxproj -> C:\Users\Jason\Documents\单子\Assignment_BACS1014(2023)\x64\Debug\Assignment_BACS1014(2023).exe
